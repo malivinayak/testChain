@@ -6,14 +6,14 @@ Project TestChain can provide a basic understanding of BlockChain.
 
 
 ## Index
->1. [Description](https://github.com/malivinayak/testChain/new/main?readme=1#description-)
->2. [Project Working](https://github.com/malivinayak/testChain/new/main?readme=1#project-working-%EF%B8%8F)
->3. [Requirements](https://github.com/malivinayak/testChain/new/main?readme=1#requirements-)
->4. [Installation](https://github.com/malivinayak/testChain/new/main?readme=1#installation-)
->5. [Project Files](https://github.com/malivinayak/testChain/new/main?readme=1#project-files-)
->6. [Compiled .class files](https://github.com/malivinayak/testChain/new/main?readme=1#compiled-class-files-)
->7. [Contributing](https://github.com/malivinayak/testChain/new/main?readme=1#contributing-)
->8. [Thank You!](https://github.com/malivinayak/testChain/new/main?readme=1#thank-you)
+>1. [Description](https://github.com/malivinayak/testChain/tree/main#description-)
+>2. [Project Working](https://github.com/malivinayak/testChain/tree/main#project-working-%EF%B8%8F)
+>3. [Requirements](https://github.com/malivinayak/testChain/tree/main#requirements-)
+>4. [Installation](https://github.com/malivinayak/testChain/tree/main#installation-)
+>5. [Project Files](https://github.com/malivinayak/testChain/tree/main#project-files-)
+>6. [Compiled .class files](https://github.com/malivinayak/testChain/tree/main#compiled-class-files-)
+>7. [Contributing](https://github.com/malivinayak/testChain/tree/main#contributing-)
+>8. [Thank You!](https://github.com/malivinayak/testChain/tree/main#thank-you)
 
 ## Description 📃
 testChain is developed with ```Java``` and Cryptographic algorithm ```SHA256```.
@@ -96,4 +96,4 @@ If you find any issue just put it in the repository issue section, thank you.
 Please ⭐️ this repo 
 Let me know if you have any suggestions
 
-[ 🔝 ](https://github.com/malivinayak/testChain/new/main?readme=1#project-testchain)
+[ 🔝 ](https://github.com/malivinayak/testChain/tree/main#project-testchain)
