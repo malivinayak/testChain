@@ -74,7 +74,7 @@ Block was mined by setting difficulty level 5 ( It can be changed ).
 3. Imported it in Intellij IDEA or any other Java IDE.
 4. You can compile directly in command line or terminal too.
 5. Run the application :D
-6. Alternativly [download](https://github.com/malivinayak/testChain/new/main?readme=1#compiled-class-files) 
+6. Alternativly [download](https://github.com/malivinayak/testChain#compiled-class-files-) 
 [.class](https://github.com/malivinayak/testChain/tree/main/class%20files) files and directly run in Command Prompt or Terminal.
 
 ## Project files 📂
