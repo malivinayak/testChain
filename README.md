@@ -27,9 +27,8 @@ There are mainly 2 options to showcase the basic functions of a blockchain :
  >
  >2. Insert a block into testChain ( Mine new Block )
 
-<br>
  
- #### 1. Display the Blockchain
+  1. Display the Blockchain✨
 
 
 The display function will display all blocks in testChain with securely stored data, its hash and mining run (iteration counter of mine block to get specific hash ). 
@@ -42,9 +41,8 @@ Before displaying testChain, all blocks must undergo 3 authentication checks (i.
    >
    >c. check if hash is solved or mining is completed
 
-<br>
 
- #### 2. Insert a block into testChain ( Mine new Block )
+ 2. Insert a block into testChain ( Mine new Block )✨
 
 
 For mining of new block or insertion of block in testChain, data is taken from user. For Calculating Hash value SHA-256 Algorithm is applied on String containing previousHash, timeStamp i.e. minning start time in millisecond, data and miner. Block was mined by setting difficulty level 5 (It can be changed).
